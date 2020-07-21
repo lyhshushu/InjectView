@@ -1,0 +1,3 @@
+rootProject.name='InjectView'
+include ':app'
+include ':injectutil'
